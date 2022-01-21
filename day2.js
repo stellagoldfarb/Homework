@@ -1,3 +1,17 @@
+
+
+const testArray = [ true, false, false, true, false, false, false, true, true, true, false ]
+
+
+
+
+
+
+
+
+
+
+
 let car = {
     make: "Lexus",
     model: 'ES350',
